@@ -38,6 +38,8 @@ for i in list_men:
 for i in list_women:
     w_d[i]=''
 
+#code is modified
+
 
     
                                 
